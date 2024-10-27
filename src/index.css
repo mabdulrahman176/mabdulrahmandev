@@ -22,13 +22,18 @@ a {
   top: 0;          
   width: 100%;      
   z-index: 10;      
-  padding: 1rem;    
+  padding: 1rem; 
+  overflow-x: auto;  
+  -webkit-overflow-scrolling: touch; 
 }
-
+.nav_bar::-webkit-scrollbar {
+  display: none; /* Hides the scrollbar in WebKit browsers */
+}
 .nav_bar .nav_items {
   padding: 16px;
   font-size: 1.2rem;
   font-weight: bold;
+  white-space: nowrap;
 }
 
 .nav_bar .nav_items:hover {
@@ -48,6 +53,7 @@ a {
   justify-content: center;
   align-items: center;
   padding: 20px;
+  margin-top: 40px;
 }
 
 .home .left {
@@ -188,11 +194,16 @@ a {
 }
 
 /* Responsive Adjustments */
+
+
 @media (min-width: 768px) {
   .home {
     flex-direction: row;
   }
-
+  .nav_bar .nav_items {
+    font-size: 1rem; /* Reduces font size to fit on smaller screens */
+    padding: 5px; /* Reduces padding to help fit items */
+  }
   .home .left, .home .right .img {
    margin-left: 7rem;
   }
