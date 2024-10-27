@@ -194,11 +194,11 @@ a {
   }
 
   .home .left, .home .right .img {
-    width: 50%;
+   margin-left: 7rem;
   }
 
   .skills .items .item {
-    width: calc(33.33% - 40px);
+    width: calc(50% - 40px);
   }
 }
 
