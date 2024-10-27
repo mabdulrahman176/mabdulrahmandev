@@ -1,8 +1,7 @@
-# React + Vite
+Welcome to my portfolio! I'm M Abdul Rahman, a skilled MERN Stack Developer with 2 years of hands-on experience in building responsive, scalable, and dynamic web applications.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Skills & Expertise
+Frontend: React.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
+Backend: Node.js, Express.js
+Database: MongoDB
+Tools & Technologies: Git, GitHub, REST APIs, JSON, Postman, npm, Heroku, Vercel

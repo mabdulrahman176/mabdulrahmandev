@@ -1,17 +1,17 @@
 [
   {
     "key": 1,
-    "title": "Portfolio site",
+    "title": "Portfolio Site",
     "imageSrc": "/portfolio image.jpg",
-    "description": "This is a project made with Html CSS and JavaScript",
+    "description": "A personal portfolio showcasing my skills and projects, created using HTML, CSS, and JavaScript.",
     "demo": "https://mabdulrahmandev.netlify.app/",
     "source": "https://github.com/mabdulrahman176/mabdulrahmandev.me"
   },
   {
     "key": 2,
-    "title": "Landing Page For TeqTak ",
+    "title": "Landing Page For TeqTak",
     "imageSrc": "/landingpage.jpg",
-    "description": "This is a project made with complete React js.",
+    "description": "A professional landing page built with React.js, focusing on clean design and responsiveness.",
     "demo": "https://teqtak-landing-page.vercel.app/",
     "source": "https://github.com/mabdulrahman176/teqtak-landing-page"
   },
@@ -19,15 +19,15 @@
     "key": 3,
     "title": "Codings First Official Site",
     "imageSrc": "/codingsfirst.jpg",
-    "description": "This is a project made with complete React js.",
+    "description": "Official website for Codings First, developed with React.js to ensure fast loading  experience.",
     "demo": "https://www.codingsfirst.com",
     "source": "https://github.com/mabdulrahman176/codings-first"
   },
   {
     "key": 4,
-    "title": "A Clone  of refral Website",
+    "title": "Referral Website Clone",
     "imageSrc": "/webfx.jpg",
-    "description": "This is a project made with complete React js.",
+    "description": "A clone of a referral website, crafted entirely with React.js for optimized user engagement.",
     "demo": "https://web-fx-frontend-nine.vercel.app/",
     "source": "https://github.com/mabdulrahman176/WebFx-frontend"
   },
@@ -35,16 +35,15 @@
     "key": 5,
     "title": "Shoe Designing Website",
     "imageSrc": "/shoeweb.jpg",
-    "description": "This is a project made with complete React js.",
+    "description": "A creative shoe design platform made with React.js, enabling users to customize their own designs.",
     "demo": "https://sheo-maker-design.vercel.app/",
     "source": "https://github.com/mabdulrahman176/Sheo-maker-design"
   },
- 
   {
     "key": 6,
     "title": "Codes Thinker Official Site",
     "imageSrc": "codesthinker.jpg",
-    "description": "This is a project made with complete React js.",
+    "description": "The official Codes Thinker site, built in React.js for a dynamic and engaging web experience.",
     "demo": "https://www.codesthinker.com",
     "source": "https://github.com/mabdulrahman176/WebFx-frontend"
   }
